@@ -8,7 +8,7 @@ Jre 8+ must be installed.
 # Installation
 npm install -g git-measure
 
-# Usage
+# Running git-measure
 gm --since=18.04.2015 --before=01.01.2019 --dir=d:\ws\gitDir
 
 Default parameters when called only gm:<br>
